@@ -1,41 +1,45 @@
 using System;
-namespace Lab1_6
+using System.Collections.Generic;
+using System.Reflection.PortableExecutable;
+
+public interface IAbility { }
+
+public interface IThinking : IAbility
 {
-    internal class Bai1_6
-    {
-        public interface IThinking
-        {
-            public void thinking_behavior();
-        }
-        public interface IIntelligent
-        {
-            public void IIntelligent_behavior();
-
-        }
-        public interface IAbility : IIntelligent, IThinking
-        {
-
-        }
-        public class mamal
-        {
-            public string characteristics;
-        }
-        public class Whale : mamal
-        {
-            public Whale(string character) 
-            {
-                characteristics = character;
-            }
-        }
-        public class Human : mamal, IAbility
-        {
-            public void thinking_behavior()
-            { Console.WriteLine("Thinking about you"); }
-            public void IIntelligent_behavior()
-            { Console.WriteLine("Calculate 1+1 "); }
-        }
-
-    }
-
+	void thinking_behavior() { }
 }
 
+public interface IIntelligent : IAbility
+{
+	void intelligent_behavior() { }
+}
+
+
+public class Mamal
+{
+	string characteristics = "";
+}
+
+public class Whale : Mamal
+{
+	public Whale() {}
+}
+
+public class Human : Mamal, IAbility
+{
+	public void thinking_behavior()
+	{
+		Console.WriteLine("Thinking about you <3");
+	}
+	public void intelligent_behavior()
+	{
+		Console.WriteLine("Doing homework");
+	}
+}
+
+public class Bai1_6
+{
+	public static void Main()
+	{
+	}
+}
