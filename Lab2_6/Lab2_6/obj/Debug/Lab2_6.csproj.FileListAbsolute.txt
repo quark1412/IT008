@@ -1,0 +1,11 @@
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\bin\Debug\Lab2_6.exe.config
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\bin\Debug\Lab2_6.exe
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\bin\Debug\Lab2_6.pdb
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.fManageStudent.resources
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.exe
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.pdb
+C:\Users\ADMIN\source\repos\Lab2_6\Lab2_6\obj\Debug\Lab2_6.fAddStudent.resources
