@@ -1,0 +1,10 @@
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\bin\Debug\Windows Explorer.exe.config
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\bin\Debug\Windows Explorer.exe
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\bin\Debug\Windows Explorer.pdb
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows Explorer.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows_Explorer.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows Explorer.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows Explorer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows Explorer.exe
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows Explorer.pdb
+C:\Users\ASUS\Desktop\Visual Programming\Practice\WindowsExplorer\Windows Explorer\obj\Debug\Windows_Explorer.Form1.resources
