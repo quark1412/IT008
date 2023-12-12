@@ -23,7 +23,7 @@
   <h2>Description:</h2> Clone app BIDV với một số tính năng như chuyển tiền, quét mã QR, thẻ visa online, quản lí thẻ, gửi tiết kiệm, đổi quà, thông báo, cài đặt... với prototype đầy đủ
 </p>
 <p>
-  <h2>How to use:</h2> Mở link <a href="https://www.figma.com/file/J1GDyXXLnKnmbm5UGdK7GG/BIDV-Prototype?type=design&node-id=0-1&mode=design&t=aznorZ74cp4Jj39m-0">Figma</a>, nhấn <b>Ctrl + Alt + Enter</b> hoặc  chọn <b>Present</b> ở góc trên bên phải để xem prototype
+  <h2>How to use:</h2> Mở link <a href="https://www.figma.com/community/file/1316206188762032235">Figma</a>, nhấn <b>Ctrl + Alt + Enter</b> hoặc  chọn <b>Present</b> ở góc trên bên phải để xem prototype
   <img src="https://github.com/quark1412/IT008_O14_TH/assets/40156711/6175989f-5168-47ac-9cfc-503dc1790ad2
 ">
 </p>
